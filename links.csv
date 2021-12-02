@@ -1,0 +1,713 @@
+source,target
+SDGs,1: no poverty
+SDGs,2: zero hunger
+SDGs,3: good heath and well-being
+SDGs,4: quality education
+SDGs,5: gender equality
+SDGs,6: clean water and sanitation
+SDGs,7: affordable and clean energy
+SDGs,8: decent work and economic growth
+SDGs,9: industry innovation and infrastructure
+SDGs,10: reduced inequality
+SDGs,11: sustainable cities and communities
+SDGs,12: responsible consumption and production
+SDGs,13: climate action
+SDGs,14: life below water
+SDGs,15: life on land
+SDGs,16: peace justice and strong institutions
+SDGs,17: partnerships for the goals
+1: no poverty,1.a.3: Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP
+1: no poverty,"1.b.1: Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups"
+1: no poverty,"1.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+1: no poverty,1.5.3: Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030
+1: no poverty,1.5.4: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+2: zero hunger,2.1.1: Prevalence of undernourishment
+2: zero hunger,"2.1.2: Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
+2: zero hunger,2.2.1: Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age
+2: zero hunger,"2.2.2: Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
+2: zero hunger,2.3.1: Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size
+2: zero hunger,"2.3.2: Average income of small-scale food producers, by sex and indigenous status"
+2: zero hunger,2.4.1: Proportion of agricultural area under productive and sustainable agriculture
+2: zero hunger,2.5.1: Number of plant and animal genetic resources for food and agriculture secured in either medium or long-term conservation facilities
+2: zero hunger,"2.5.2: Proportion of local breeds classified as being at risk, not-at-risk or at unknown level of risk of extinction"
+2: zero hunger,2.a.1: The agriculture orientation index for government expenditures
+2: zero hunger,2.a.2: Total official flows (official development assistance plus other official flows) to the agriculture sector
+2: zero hunger,2.b.1: Agricultural export subsidies
+2: zero hunger,2.c.1: Indicator of food price anomalies
+3: good heath and well-being,3.1.1: Maternal mortality ratio
+3: good heath and well-being,3.1.2: Proportion of births attended by skilled health personnel
+3: good heath and well-being,3.2.1: Under-five mortality rate
+3: good heath and well-being,3.2.2: Neonatal mortality rate
+3: good heath and well-being,"3.3.1: Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
+3: good heath and well-being,"3.3.2: Tuberculosis incidence per 100,000 population"
+3: good heath and well-being,"3.3.3: Malaria incidence per 1,000 population"
+3: good heath and well-being,"3.3.4: Hepatitis B incidence per 100,000 population"
+3: good heath and well-being,3.3.5: Number of people requiring interventions against neglected tropical diseases
+3: good heath and well-being,"3.4.1: Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+3: good heath and well-being,3.4.2: Suicide mortality rate
+3: good heath and well-being,"3.5.1: Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+3: good heath and well-being,"3.5.2: Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
+3: good heath and well-being,3.6.1: Death rate due to road traffic injuries
+3: good heath and well-being,3.7.1: Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods
+3: good heath and well-being,"3.7.2: Adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group"
+3: good heath and well-being,"3.8.1: Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)"
+3: good heath and well-being,3.8.2: Proportion of population with large household expenditures on health as a share of total household expenditure or income
+3: good heath and well-being,3.9.1: Mortality rate attributed to household and ambient air pollution
+3: good heath and well-being,"3.9.2: Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
+3: good heath and well-being,3.9.3: Mortality rate attributed to unintentional poisoning
+3: good heath and well-being,3.a.1: Age-standardized prevalence of current tobacco use among persons aged 15 years and older
+3: good heath and well-being,3.b.1: Proportion of the target population covered by all vaccines included in their national programme
+3: good heath and well-being,3.b.2: Total net official development assistance to medical research and basic health sectors
+3: good heath and well-being,3.b.3: Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis
+3: good heath and well-being,3.c.1: Health worker density and distribution
+3: good heath and well-being,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness
+4: quality education,"4.1.1: Proportion of children and young people: (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
+4: quality education,"4.2.1: Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex"
+4: quality education,"4.2.2: Participation rate in organized learning (one year before the official primary entry age), by sex"
+4: quality education,"4.3.1: Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
+4: quality education,"4.4.1: Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
+4: quality education,"4.5.1: Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
+4: quality education,"4.6.1: Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex"
+4: quality education,"4.7.1: Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+4: quality education,4.a.1: Proportion of schools with access to: (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)
+4: quality education,4.b.1: Volume of official development assistance flows for scholarships by sector and type of study
+4: quality education,4.c.1: Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country
+5: gender equality,"5.1.1: Whether or not legal frameworks are in place to promote, enforce and monitor equality and non?discrimination on the basis of sex"
+5: gender equality,"5.2.1: Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
+5: gender equality,"5.2.2: Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
+5: gender equality,5.3.1: Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18
+5: gender equality,"5.3.2: Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age"
+5: gender equality,"5.4.1: Proportion of time spent on unpaid domestic and care work, by sex, age and location"
+5: gender equality,5.5.1: Proportion of seats held by women in (a) national parliaments and (b) local governments
+5: gender equality,5.5.2: Proportion of women in managerial positions
+5: gender equality,"5.6.1: Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+5: gender equality,"5.6.2: Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
+5: gender equality,"5.a.1: (a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
+5: gender equality,5.a.2: Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control
+5: gender equality,"5.b.1: Proportion of individuals who own a mobile telephone, by sex"
+5: gender equality,5.c.1: Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment
+6: clean water and sanitation,6.1.1: Proportion of population using safely managed drinking water services
+6: clean water and sanitation,"6.2.1: Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water"
+6: clean water and sanitation,6.3.1: Proportion of wastewater safely treated
+6: clean water and sanitation,6.3.2: Proportion of bodies of water with good ambient water quality
+6: clean water and sanitation,6.4.1: Change in water-use efficiency over time
+6: clean water and sanitation,6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources
+6: clean water and sanitation,6.5.1: Degree of integrated water resources management implementation (0-100)
+6: clean water and sanitation,6.5.2: Proportion of transboundary basin area with an operational arrangement for water cooperation
+6: clean water and sanitation,6.6.1: Change in the extent of water-related ecosystems over time
+6: clean water and sanitation,6.a.1: Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
+6: clean water and sanitation,6.b.1: Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management
+7: affordable and clean energy,7.1.1: Proportion of population with access to electricity
+7: affordable and clean energy,7.1.2: Proportion of population with primary reliance on clean fuels and technology
+7: affordable and clean energy,7.2.1: Renewable energy share in the total final energy consumption
+7: affordable and clean energy,7.3.1: Energy intensity measured in terms of primary energy and GDP
+7: affordable and clean energy,"7.a.1: International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
+7: affordable and clean energy,7.b.1: Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services
+8: decent work and economic growth,8.1.1: Annual growth rate of real GDP per capita
+8: decent work and economic growth,8.2.1: Annual growth rate of real GDP per employed person
+8: decent work and economic growth,"8.3.1: Proportion of informal employment in non?agriculture employment, by sex"
+8: decent work and economic growth,"8.5.1: Average hourly earnings of female and male employees, by occupation, age and persons with disabilities"
+8: decent work and economic growth,"8.5.2: Unemployment rate, by sex, age and persons with disabilities"
+8: decent work and economic growth,"8.6.1: Proportion of youth (aged 15-24 years) not in education, employment or training"
+8: decent work and economic growth,"8.7.1: Proportion and number of children aged 5?17 years engaged in child labour, by sex and age"
+8: decent work and economic growth,"8.8.1: Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status"
+8: decent work and economic growth,"8.8.2: Level of national compliance of labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status"
+8: decent work and economic growth,8.9.1: Tourism direct GDP as a proportion of total GDP and in growth rate
+8: decent work and economic growth,8.9.2: Proportion of jobs in sustainable tourism industries out of total tourism jobs
+8: decent work and economic growth,8.a.1: Aid for Trade commitments and disbursements
+8: decent work and economic growth,"8.b.1: Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
+8: decent work and economic growth,"8.10.1: (a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults"
+8: decent work and economic growth,8.10.2: Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider
+8: decent work and economic growth,"8.4.1: Material footprint, material footprint per capita, and material footprint per GDP"
+8: decent work and economic growth,"8.4.2: Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+9: industry innovation and infrastructure,9.1.1: Proportion of the rural population who live within 2 km of an all-season road
+9: industry innovation and infrastructure,"9.1.2: Passenger and freight volumes, by mode of transport"
+9: industry innovation and infrastructure,9.2.1: Manufacturing value added as a proportion of GDP and per capita
+9: industry innovation and infrastructure,9.2.2: Manufacturing employment as a proportion of total employment
+9: industry innovation and infrastructure,9.3.1: Proportion of small-scale industries in total industry value added
+9: industry innovation and infrastructure,9.3.2: Proportion of small-scale industries with a loan or line of credit
+9: industry innovation and infrastructure,9.4.1: CO2 emission per unit of value added
+9: industry innovation and infrastructure,9.5.1: Research and development expenditure as a proportion of GDP
+9: industry innovation and infrastructure,9.5.2: Researchers (in full-time equivalent) per million inhabitants
+9: industry innovation and infrastructure,9.a.1: Total official international support (official development assistance plus other official flows) to infrastructure
+9: industry innovation and infrastructure,9.b.1: Proportion of medium and high-tech industry value added in total value added
+9: industry innovation and infrastructure,"9.c.1: Proportion of population covered by a mobile network, by technology"
+10: reduced inequality,10.1.1: Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population
+10: reduced inequality,"10.2.1: Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
+10: reduced inequality,"10.4.1: Labour share of GDP, comprising wages and social protection transfers"
+10: reduced inequality,10.5.1: Financial Soundness Indicators
+10: reduced inequality,10.7.1: Recruitment cost borne by employee as a proportion of yearly income earned in country of destination
+10: reduced inequality,10.7.2: Number of countries that have implemented well-managed migration policies
+10: reduced inequality,10.a.1: Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff
+10: reduced inequality,"10.b.1: Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
+10: reduced inequality,10.c.1: Remittance costs as a proportion of the amount remitted
+10: reduced inequality,10.3.1: Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law
+10: reduced inequality,10.6.1: Proportion of members and voting rights of developing countries in international organizations
+11: sustainable cities and communities,"11.1.1: Proportion of urban population living in slums, informal settlements or inadequate housing"
+11: sustainable cities and communities,"11.2.1: Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
+11: sustainable cities and communities,11.3.1: Ratio of land consumption rate to population growth rate
+11: sustainable cities and communities,11.3.2: Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically
+11: sustainable cities and communities,"11.4.1: Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship)"
+11: sustainable cities and communities,"11.5.2: Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters"
+11: sustainable cities and communities,"11.6.1: Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities"
+11: sustainable cities and communities,11.6.2: Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)
+11: sustainable cities and communities,"11.7.1: Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
+11: sustainable cities and communities,"11.7.2: Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
+11: sustainable cities and communities,"11.a.1: Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city"
+11: sustainable cities and communities,"11.c.1: Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials"
+11: sustainable cities and communities,"11.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+11: sustainable cities and communities,11.b.1: Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030
+11: sustainable cities and communities,11.b.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+12: responsible consumption and production,12.1.1: Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies
+12: responsible consumption and production,12.3.1: Global food loss index
+12: responsible consumption and production,"12.4.1: Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement"
+12: responsible consumption and production,"12.4.2: Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment"
+12: responsible consumption and production,"12.5.1: National recycling rate, tons of material recycled"
+12: responsible consumption and production,12.6.1: Number of companies publishing sustainability reports
+12: responsible consumption and production,12.7.1: Number of countries implementing sustainable public procurement policies and action plans
+12: responsible consumption and production,12.8.1: Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment
+12: responsible consumption and production,12.a.1: Amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies
+12: responsible consumption and production,12.b.1: Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools
+12: responsible consumption and production,12.c.1: Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels
+12: responsible consumption and production,"12.2.1: Material footprint, material footprint per capita, and material footprint per GDP"
+12: responsible consumption and production,"12.2.2: Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+13: climate action,"13.2.1: Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)"
+13: climate action,"13.3.1: Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula"
+13: climate action,"13.3.2: Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions"
+13: climate action,13.a.1: Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment
+13: climate action,"13.b.1: Number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities"
+13: climate action,"13.1.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+13: climate action,13.1.2: Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030
+13: climate action,13.1.3: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+14: life below water,14.1.1: Index of coastal eutrophication and floating plastic debris density
+14: life below water,14.2.1: Proportion of national exclusive economic zones managed using ecosystem-based approaches
+14: life below water,14.3.1: Average marine acidity (pH) measured at agreed suite of representative sampling stations
+14: life below water,14.4.1: Proportion of fish stocks within biologically sustainable levels
+14: life below water,14.5.1: Coverage of protected areas in relation to marine areas
+14: life below water,"14.6.1: Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+14: life below water,"14.7.1: Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries"
+14: life below water,14.a.1: Proportion of total research budget allocated to research in the field of marine technology
+14: life below water,14.b.1: Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries
+14: life below water,"14.c.1: Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nation Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources"
+15: life on land,15.1.1: Forest area as a proportion of total land area
+15: life on land,"15.1.2: Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
+15: life on land,15.2.1: Progress towards sustainable forest management
+15: life on land,15.3.1: Proportion of land that is degraded over total land area
+15: life on land,15.4.1: Coverage by protected areas of important sites for mountain biodiversity
+15: life on land,15.4.2: Mountain Green Cover Index
+15: life on land,15.5.1: Red List Index
+15: life on land,"15.6.1: Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
+15: life on land,15.8.1: Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species
+15: life on land,15.9.1: Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020
+15: life on land,15.7.1: Proportion of traded wildlife that was poached or illicitly trafficked
+15: life on land,15.c.1: Proportion of traded wildlife that was poached or illicitly trafficked
+15: life on land,15.a.1: Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems
+15: life on land,15.b.1: Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems
+16: peace justice and strong institutions,"16.1.1: Number of victims of intentional homicide per 100,000 population, by sex and age"
+16: peace justice and strong institutions,"16.1.2: Conflict-related deaths per 100,000 population, by sex, age and cause"
+16: peace justice and strong institutions,"16.1.3: Proportion of population subjected to physical, psychological or sexual violence in the previous 12 months"
+16: peace justice and strong institutions,16.1.4: Proportion of population that feel safe walking alone around the area they live
+16: peace justice and strong institutions,16.2.1: Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month
+16: peace justice and strong institutions,"16.2.2: Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
+16: peace justice and strong institutions,16.2.3: Proportion of young women and men aged 18?29 years who experienced sexual violence by age 18
+16: peace justice and strong institutions,16.3.1: Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms
+16: peace justice and strong institutions,16.3.2: Unsentenced detainees as a proportion of overall prison population
+16: peace justice and strong institutions,16.4.1: Total value of inward and outward illicit financial flows (in current United States dollars)
+16: peace justice and strong institutions,"16.4.2: Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
+16: peace justice and strong institutions,"16.5.1: Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
+16: peace justice and strong institutions,"16.5.2: Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
+16: peace justice and strong institutions,"16.6.1: Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+16: peace justice and strong institutions,16.6.2: Proportion of population satisfied with their last experience of public services
+16: peace justice and strong institutions,"16.7.1: Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions"
+16: peace justice and strong institutions,"16.7.2: Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
+16: peace justice and strong institutions,"16.9.1: Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+16: peace justice and strong institutions,16.a.1: Existence of independent national human rights institutions in compliance with the Paris Principles
+16: peace justice and strong institutions,"16.10.1: Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
+16: peace justice and strong institutions,"16.10.2: Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"
+16: peace justice and strong institutions,16.b.1: Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law
+16: peace justice and strong institutions,16.8.1: Proportion of members and voting rights of developing countries in international organizations
+17: partnerships for the goals,"17.1.1: Total government revenue as a proportion of GDP, by source"
+17: partnerships for the goals,17.1.2: Proportion of domestic budget funded by domestic taxes
+17: partnerships for the goals,"17.2.1: Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)"
+17: partnerships for the goals,"17.3.1: Foreign direct investments (FDI), official development assistance and South-South Cooperation as a proportion of total domestic budget"
+17: partnerships for the goals,17.3.2: Volume of remittances (in United States dollars) as a proportion of total GDP
+17: partnerships for the goals,17.4.1: Debt service as a proportion of exports of goods and services
+17: partnerships for the goals,17.5.1: Number of countries that adopt and implement investment promotion regimes for least developed countries
+17: partnerships for the goals,"17.6.1: Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation"
+17: partnerships for the goals,"17.6.2: Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+17: partnerships for the goals,"17.7.1: Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+17: partnerships for the goals,17.8.1: Proportion of individuals using the Internet
+17: partnerships for the goals,"17.9.1: Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to developing countries"
+17: partnerships for the goals,17.10.1: Worldwide weighted tariff-average
+17: partnerships for the goals,17.11.1: Developing countries’ and least developed countries’ share of global exports
+17: partnerships for the goals,"17.12.1: Average tariffs faced by developing countries, least developed countries and small island developing States"
+17: partnerships for the goals,17.13.1: Macroeconomic Dashboard
+17: partnerships for the goals,17.14.1: Number of countries with mechanisms in place to enhance policy coherence of sustainable development
+17: partnerships for the goals,17.15.1: Extent of use of country-owned results frameworks and planning tools by providers of development cooperation
+17: partnerships for the goals,17.16.1: Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals
+17: partnerships for the goals,17.17.1: Amount of United States dollars committed to public-private and civil society partnerships
+17: partnerships for the goals,"17.18.1: Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics"
+17: partnerships for the goals,17.18.2: Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics
+17: partnerships for the goals,"17.18.3: Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
+17: partnerships for the goals,17.19.1: Dollar value of all resources made available to strengthen statistical capacity in developing countries
+17: partnerships for the goals,17.19.2: Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration
+17.19.2: Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration,Birth certificate ownership (NHPC)
+"11.1.1: Proportion of urban population living in slums, informal settlements or inadequate housing",Ethnicity (NHPC)
+5.3.1: Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18,Marital Status (WIS)
+"6.2.1: Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",Place to wash  hands (WIS)
+6.6.1: Change in the extent of water-related ecosystems over time,Place to wash hands - observed (WIS)
+6.5.2: Proportion of transboundary basin area with an operational arrangement for water cooperation,Place to wash hands - observed (WIS)
+6.4.1: Change in water-use efficiency over time,Place to wash hands - observed (WIS)
+6.5.2: Proportion of transboundary basin area with an operational arrangement for water cooperation,Water souces used on a regular basis (WIS)
+6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Water souces used on a regular basis (WIS)
+6.5.1: Degree of integrated water resources management implementation (0-100),Water souces used on a regular basis (WIS)
+6.3.2: Proportion of bodies of water with good ambient water quality,Water souces used on a regular basis (WIS)
+6.1.1: Proportion of population using safely managed drinking water services,Source of drinking water (WIS)
+6.4.1: Change in water-use efficiency over time,Water source for other purposes (WIS)
+6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Water source for other purposes (WIS)
+6.5.2: Proportion of transboundary basin area with an operational arrangement for water cooperation,Water source for other purposes (WIS)
+6.b.1: Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,Water source for other purposes (WIS)
+6.a.1: Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,Water source for other purposes (WIS)
+6.3.1: Proportion of wastewater safely treated,Water source for other purposes (WIS)
+"6.2.1: Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",Uses of the water source (WIS)
+6.1.1: Proportion of population using safely managed drinking water services,Uses of the water source (WIS)
+6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Uses of the water source (WIS)
+6.3.2: Proportion of bodies of water with good ambient water quality,Availability of the water source (WIS)
+6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Availability of the water source at specific time (WIS)
+"9.1.2: Passenger and freight volumes, by mode of transport",Period to and from water source (WIS)
+"5.a.1: (a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure",Ownership of a garden (WIS)
+6.3.1: Proportion of wastewater safely treated,Toilet facility used  (WIS)
+"6.2.1: Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",Toilet facility used  (WIS)
+"3.9.2: Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",Toilet facility used  (WIS)
+"6.2.1: Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",Main toilet facilty used (WIS)
+"6.2.1: Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",Frequency of toilet facilty usage (WIS)
+"6.2.1: Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",Toilet facilty sharing (WIS)
+"3.9.2: Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",Toilet facilty sharing (WIS)
+"3.9.2: Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",Number of households that share a toilet facility (WIS)
+"6.2.1: Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",Number of households that share a toilet facility (WIS)
+"3.9.2: Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",Number of people regularly using the bush / field at home or at work (WIS)
+6.a.1: Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,Number of people regularly using the bush / field at home or at work (WIS)
+"12.4.1: Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement",Number of people regularly using the bush / field at home or at work (WIS)
+6.b.1: Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,Number of people regularly using the bush / field at home or at work (WIS)
+15.1.1: Forest area as a proportion of total land area,Number of people regularly using the bush / field at home or at work (WIS)
+"4.2.1: Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex",Disposal of under-5 children's fecal waste (WIS)
+"4.3.1: Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",Disposal of under-5 children's fecal waste (WIS)
+"11.c.1: Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials",Period of water source construction(UWASA)
+"17.7.1: Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",Source of funding for the water source(UWASA)
+6.5.1: Degree of integrated water resources management implementation (0-100),Source of funding for the water source(UWASA)
+6.a.1: Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,Source of funding for the water source(UWASA)
+6.b.1: Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,Ownership of watersource(UWASA)
+6.a.1: Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,Ownership of watersource(UWASA)
+6.1.1: Proportion of population using safely managed drinking water services,Number of users of watersource(UWASA)
+"6.2.1: Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",Number of users of watersource(UWASA)
+6.b.1: Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,Number of users of watersource(UWASA)
+3.8.2: Proportion of population with large household expenditures on health as a share of total household expenditure or income,Number of users of watersource(UWASA)
+6.3.2: Proportion of bodies of water with good ambient water quality,Type of watersource(UWASA)
+6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Type of watersource(UWASA)
+6.5.1: Degree of integrated water resources management implementation (0-100),Management of watersource(UWASA)
+6.5.2: Proportion of transboundary basin area with an operational arrangement for water cooperation,Management of watersource(UWASA)
+6.b.1: Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,Management of watersource(UWASA)
+6.b.1: Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,Water and Sanitation Committee (WSC) established(UWASA)
+5.5.2: Proportion of women in managerial positions,Water and Sanitation Committee (WSC) established(UWASA)
+6.5.1: Degree of integrated water resources management implementation (0-100),Water and Sanitation Committee (WSC) established(UWASA)
+"4.3.1: Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",Water and Sanitation Committee (WSC) trained(UWASA)
+"4.4.1: Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",Water and Sanitation Committee (WSC) trained(UWASA)
+"4.7.1: Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",Water and Sanitation Committee (WSC) trained(UWASA)
+6.3.1: Proportion of wastewater safely treated,Water and Sanitation Committee (WSC) functionality(UWASA)
+6.1.1: Proportion of population using safely managed drinking water services,Water and Sanitation Committee (WSC) functionality(UWASA)
+"6.2.1: Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",Water and Sanitation Committee (WSC) functionality(UWASA)
+6.4.1: Change in water-use efficiency over time,Water and Sanitation Committee (WSC) functionality(UWASA)
+6.5.1: Degree of integrated water resources management implementation (0-100),Water and Sanitation Committee (WSC) functionality(UWASA)
+6.a.1: Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,Water and Sanitation Committee (WSC) functionality(UWASA)
+5.5.2: Proportion of women in managerial positions,Water and Sanitation Committee (WSC) women members(UWASA)
+5.5.1: Proportion of seats held by women in (a) national parliaments and (b) local governments,Water and Sanitation Committee (WSC) women members(UWASA)
+5.5.2: Proportion of women in managerial positions,No. of women holding key positions in the Water and Sanitation Committee (WSC)(UWASA)
+5.5.1: Proportion of seats held by women in (a) national parliaments and (b) local governments,No. of women holding key positions in the Water and Sanitation Committee (WSC)(UWASA)
+6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Water source functionality(UWASA)
+6.5.2: Proportion of transboundary basin area with an operational arrangement for water cooperation,Water source functionality(UWASA)
+6.6.1: Change in the extent of water-related ecosystems over time,Water source functionality(UWASA)
+6.3.2: Proportion of bodies of water with good ambient water quality,Water source last functionality(UWASA)
+6.4.1: Change in water-use efficiency over time,Water source last functionality(UWASA)
+6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Water source last functionality(UWASA)
+6.5.2: Proportion of transboundary basin area with an operational arrangement for water cooperation,Water source last functionality(UWASA)
+6.6.1: Change in the extent of water-related ecosystems over time,Water source last functionality(UWASA)
+6.3.2: Proportion of bodies of water with good ambient water quality,Reasons for water source not functioning(UWASA)
+6.5.1: Degree of integrated water resources management implementation (0-100),Reasons for water source not functioning(UWASA)
+6.5.2: Proportion of transboundary basin area with an operational arrangement for water cooperation,Reasons for water source not functioning(UWASA)
+6.a.1: Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,Reasons for water source not functioning(UWASA)
+6.b.1: Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,Reasons for water source not functioning(UWASA)
+6.3.2: Proportion of bodies of water with good ambient water quality,Reasons (explained) for water source not functioning(UWASA)
+6.5.1: Degree of integrated water resources management implementation (0-100),Reasons (explained) for water source not functioning(UWASA)
+6.5.2: Proportion of transboundary basin area with an operational arrangement for water cooperation,Reasons (explained) for water source not functioning(UWASA)
+6.a.1: Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,Reasons (explained) for water source not functioning(UWASA)
+6.b.1: Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,Reasons (explained) for water source not functioning(UWASA)
+6.4.1: Change in water-use efficiency over time,Water source last repair(UWASA)
+6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Water source last repair(UWASA)
+6.5.2: Proportion of transboundary basin area with an operational arrangement for water cooperation,Water source last repair(UWASA)
+6.6.1: Change in the extent of water-related ecosystems over time,Water source last repair(UWASA)
+6.a.1: Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,Water source last repair(UWASA)
+6.b.1: Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,Water source last repair(UWASA)
+6.3.1: Proportion of wastewater safely treated,Water source last repair(UWASA)
+6.4.1: Change in water-use efficiency over time,Water source last repair (details)(UWASA)
+6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Water source last repair (details)(UWASA)
+6.5.2: Proportion of transboundary basin area with an operational arrangement for water cooperation,Water source last repair (details)(UWASA)
+6.6.1: Change in the extent of water-related ecosystems over time,Water source last repair (details)(UWASA)
+6.a.1: Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,Water source last repair (details)(UWASA)
+6.b.1: Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,Water source last repair (details)(UWASA)
+6.3.1: Proportion of wastewater safely treated,Water source last repair (details)(UWASA)
+10: reduced inequality,Religion (NHPC)
+Birth certificate ownership (NHPC),National Housing and Population Census
+Ethnicity (NHPC),National Housing and Population Census
+Religion (NHPC),National Housing and Population Census
+Orphan hood - mother (NHPC),National Housing and Population Census
+Orphan hood - father (NHPC),National Housing and Population Census
+Migration status (NHPC),National Housing and Population Census
+Length of continuous stay (NHPC),National Housing and Population Census
+Disability - seeing (NHPC),National Housing and Population Census
+Disability - hearing (NHPC),National Housing and Population Census
+Disability - walking (NHPC),National Housing and Population Census
+Disability - rembering (NHPC),National Housing and Population Census
+School dropout status (NHPC),National Housing and Population Census
+Formal education grade completed (NHPC),National Housing and Population Census
+Field of specialisation (NHPC),National Housing and Population Census
+Ability to read and write (NHPC),National Housing and Population Census
+Employment status (NHPC),National Housing and Population Census
+Occupation (NHPC),National Housing and Population Census
+Mobile phone ownership (NHPC),National Housing and Population Census
+Internet use (NHPC),National Housing and Population Census
+Marital status (NHPC),National Housing and Population Census
+Children ever born (NHPC),National Housing and Population Census
+Ever given birth (NHPC),National Housing and Population Census
+Children alive (NHPC),National Housing and Population Census
+Children dead (NHPC),National Housing and Population Census
+Latest birth (NHPC),National Housing and Population Census
+Sex of the last live birth (NHPC),National Housing and Population Census
+Survival status of the last live birth (NHPC),National Housing and Population Census
+Age at death of the last birth  (NHPC),National Housing and Population Census
+Occupancy tenure (NHPC),National Housing and Population Census
+Dwelling unit type (NHPC),National Housing and Population Census
+Number of rooms in the dwelling unit (NHPC),National Housing and Population Census
+Roof material type (NHPC),National Housing and Population Census
+Wall material type (NHPC),National Housing and Population Census
+Floor material type (NHPC),National Housing and Population Census
+Public Health Facility (NHPC),National Housing and Population Census
+Private Health Facility (NHPC),National Housing and Population Census
+Public Primary School (NHPC),National Housing and Population Census
+Private Primary School (NHPC),National Housing and Population Census
+Public Secondary School (NHPC),National Housing and Population Census
+Private Secondary School (NHPC),National Housing and Population Census
+Police Station/Police Post (NHPC),National Housing and Population Census
+Energy for lighting (NHPC),National Housing and Population Census
+Energy for cooking (NHPC),National Housing and Population Census
+Drinking water source (NHPC),National Housing and Population Census
+Drinking water source distance (NHPC),National Housing and Population Census
+Toilet facility type (NHPC),National Housing and Population Census
+Toilet facility sharing (NHPC),National Housing and Population Census
+Solid waste disposal method (NHPC),National Housing and Population Census
+Bathroom  (NHPC),National Housing and Population Census
+Kitchen (NHPC),National Housing and Population Census
+Assets owned (NHPC),National Housing and Population Census
+Information sources (NHPC),National Housing and Population Census
+Postal services usage (NHPC),National Housing and Population Census
+Mosquito nets ownership (NHPC),National Housing and Population Census
+Mosquito nets source (NHPC),National Housing and Population Census
+Livelihood source (NHPC),National Housing and Population Census
+Remittances received (NHPC),National Housing and Population Census
+Remittances - country of origin (NHPC),National Housing and Population Census
+Bank account functioning (NHPC),National Housing and Population Census
+Meals for under 5 (NHPC),National Housing and Population Census
+Soap usage (NHPC),National Housing and Population Census
+Sugar usage (NHPC),National Housing and Population Census
+Salt usage (NHPC),National Housing and Population Census
+Clothing sets owned (NHPC),National Housing and Population Census
+Shoes pairs owned (NHPC),National Housing and Population Census
+Blankets for children (NHPC),National Housing and Population Census
+Household based enterprise (NHPC),National Housing and Population Census
+Enterprise type (NHPC),National Housing and Population Census
+Agricultural activities (NHPC),National Housing and Population Census
+Production use (NHPC),National Housing and Population Census
+Crops grown (NHPC),National Housing and Population Census
+Farm ownership (NHPC),National Housing and Population Census
+Irrigation use (NHPC),National Housing and Population Census
+Land ownership (NHPC),National Housing and Population Census
+Mortality (NHPC),National Housing and Population Census
+Deceased identification (NHPC),National Housing and Population Census
+Deceased's sex (NHPC),National Housing and Population Census
+Deceased's age at death (NHPC),National Housing and Population Census
+Cause of death (NHPC),National Housing and Population Census
+Pregnant mothers mortality (NHPC),National Housing and Population Census
+Maternal mortality - during birth (NHPC),National Housing and Population Census
+Maternal mortality - within 6 weeks after delivery (NHPC),National Housing and Population Census
+Smoking frequency (UDHS),Uganda Demographic and Health Survey
+Drinking water source (UDHS),Uganda Demographic and Health Survey
+Water source location (UDHS),Uganda Demographic and Health Survey
+Time to water source (UDHS),Uganda Demographic and Health Survey
+Safe drinking water usage (UDHS),Uganda Demographic and Health Survey
+Safe drinking water process (UDHS),Uganda Demographic and Health Survey
+Toilet facility used (UDHS),Uganda Demographic and Health Survey
+Toilet facility sharing (UDHS),Uganda Demographic and Health Survey
+Toilet facility sharing size (UDHS),Uganda Demographic and Health Survey
+Toilet facility hand washing equipment (UDHS),Uganda Demographic and Health Survey
+Assets ownership (UDHS),Uganda Demographic and Health Survey
+Fuel for cooking (UDHS),Uganda Demographic and Health Survey
+Cooking area location (UDHS),Uganda Demographic and Health Survey
+Kitchen ownership (UDHS),Uganda Demographic and Health Survey
+House floor material (UDHS),Uganda Demographic and Health Survey
+House roof material (UDHS),Uganda Demographic and Health Survey
+House wall material (UDHS),Uganda Demographic and Health Survey
+Size of rooms in the house (UDHS),Uganda Demographic and Health Survey
+Household assets owned (UDHS),Uganda Demographic and Health Survey
+Agricultural land ownership (UDHS),Uganda Demographic and Health Survey
+Size of agricultural land owned (UDHS),Uganda Demographic and Health Survey
+Livestock ownership (UDHS),Uganda Demographic and Health Survey
+Types of livestock owned (UDHS),Uganda Demographic and Health Survey
+Spraying against mosquitoes (UDHS),Uganda Demographic and Health Survey
+Who sprayed against mosquitoes (UDHS),Uganda Demographic and Health Survey
+Mosquito nets ownership (UDHS),Uganda Demographic and Health Survey
+Number of mosquito nets owned (UDHS),Uganda Demographic and Health Survey
+Mosquito nets observed in the house (UDHS),Uganda Demographic and Health Survey
+Mosquito nets ownership period (UDHS),Uganda Demographic and Health Survey
+Owned mosquito nets brand (UDHS),Uganda Demographic and Health Survey
+Ever soaked mosquito nets in a mosquito repelant liquid (UDHS),Uganda Demographic and Health Survey
+Period the mosquito nets got soaked in a mosquito repelant liquid (UDHS),Uganda Demographic and Health Survey
+Sslept under a mosquito net the previous night (UDHS),Uganda Demographic and Health Survey
+Who slept under a mosquito net the previous night (UDHS),Uganda Demographic and Health Survey
+Handwashing equipment (UDHS),Uganda Demographic and Health Survey
+Presence of water for handwashing (UDHS),Uganda Demographic and Health Survey
+Cleansing agent for handwashing (UDHS),Uganda Demographic and Health Survey
+Presence of salt (UDHS),Uganda Demographic and Health Survey
+Ever attended school (UDHS),Uganda Demographic and Health Survey
+Highest school grade completed (UDHS),Uganda Demographic and Health Survey
+Highest year at the completed school grade  (UDHS),Uganda Demographic and Health Survey
+Highest school grade completed 2 (UDHS),Uganda Demographic and Health Survey
+Ability to read and write (UDHS),Uganda Demographic and Health Survey
+Newspaper or magazine reading frequency (UDHS),Uganda Demographic and Health Survey
+Radio listening frequency (UDHS),Uganda Demographic and Health Survey
+Television watching frequency (UDHS),Uganda Demographic and Health Survey
+Religion (UDHS),Uganda Demographic and Health Survey
+Tribe (UDHS),Uganda Demographic and Health Survey
+Movement away from home for morethan a night (UDHS),Uganda Demographic and Health Survey
+Movement away from home for morethan a month (UDHS),Uganda Demographic and Health Survey
+Ever given birth (UDHS),Uganda Demographic and Health Survey
+Presence of children living with their mother (UDHS),Uganda Demographic and Health Survey
+Number of sons living with their mother (UDHS),Uganda Demographic and Health Survey
+Number of daughters living with their mother (UDHS),Uganda Demographic and Health Survey
+Presence of children not living with their mother (UDHS),Uganda Demographic and Health Survey
+Number of sons not living with their mother (UDHS),Uganda Demographic and Health Survey
+Number of daughters not living with their mother (UDHS),Uganda Demographic and Health Survey
+Children mortality (UDHS),Uganda Demographic and Health Survey
+Children mortality - male (UDHS),Uganda Demographic and Health Survey
+Children mortality - female (UDHS),Uganda Demographic and Health Survey
+Children ever born (UDHS),Uganda Demographic and Health Survey
+Number of live births (UDHS),Uganda Demographic and Health Survey
+Pregnant (UDHS),Uganda Demographic and Health Survey
+Length of the pregnancy (UDHS),Uganda Demographic and Health Survey
+Did the pregnant woman want to get pregnant (UDHS),Uganda Demographic and Health Survey
+Did the pregnant woman want more children (UDHS),Uganda Demographic and Health Survey
+Ever had a miscarriage (UDHS),Uganda Demographic and Health Survey
+Latest miscarriage (UDHS),Uganda Demographic and Health Survey
+Length of the pregnancy when it ended (UDHS),Uganda Demographic and Health Survey
+Counselling when the pregnancy ended (UDHS),Uganda Demographic and Health Survey
+Other non live births in the past 5 years (UDHS),Uganda Demographic and Health Survey
+Length of non-live birth pregnancy (UDHS),Uganda Demographic and Health Survey
+Non live births before 2006 (UDHS),Uganda Demographic and Health Survey
+Period when the non-live birth got terminated before 2006 (UDHS),Uganda Demographic and Health Survey
+Last menstrual period (UDHS),Uganda Demographic and Health Survey
+Pregnancy during menstrual period (UDHS),Uganda Demographic and Health Survey
+Family planning methods knowledge (UDHS),Uganda Demographic and Health Survey
+Family planning used (UDHS),Uganda Demographic and Health Survey
+Family planning methods being used (UDHS),Uganda Demographic and Health Survey
+Brand name of Family planning pills being used (UDHS),Uganda Demographic and Health Survey
+Brand name of condoms being used (UDHS),Uganda Demographic and Health Survey
+Facility that provided sterilisation (UDHS),Uganda Demographic and Health Survey
+Year of using sterilisation (UDHS),Uganda Demographic and Health Survey
+Period of using sterilisation (UDHS),Uganda Demographic and Health Survey
+Ever used (or tried) aything (UDHS),Uganda Demographic and Health Survey
+Current family planning method sources (UDHS),Uganda Demographic and Health Survey
+Rhytm contraceptive method sources (UDHS),Uganda Demographic and Health Survey
+Was told side effects of a contraceptive method (UDHS),Uganda Demographic and Health Survey
+Was told side effects of a sterilization (UDHS),Uganda Demographic and Health Survey
+Was told problems of using a family planning method (UDHS),Uganda Demographic and Health Survey
+Ever experienced sideeffects of family planning (UDHS),Uganda Demographic and Health Survey
+Told about other forms of family planning (UDHS),Uganda Demographic and Health Survey
+Source of current family planning method (UDHS),Uganda Demographic and Health Survey
+Knowledge of family planning methods access (UDHS),Uganda Demographic and Health Survey
+Knowledge of family planning methods access type (UDHS),Uganda Demographic and Health Survey
+Recent visit by a healthwork to discuss family planning (UDHS),Uganda Demographic and Health Survey
+Recent visit to a health facility (UDHS),Uganda Demographic and Health Survey
+Anyone spoke about family planning during a health facility visit (UDHS),Uganda Demographic and Health Survey
+Circumcision status (UDHS),Uganda Demographic and Health Survey
+Age at circumcision (UDHS),Uganda Demographic and Health Survey
+Who performed the circumcision (UDHS),Uganda Demographic and Health Survey
+Circumcision location (UDHS),Uganda Demographic and Health Survey
+Ever been injected (UDHS),Uganda Demographic and Health Survey
+Who performed the injection (UDHS),Uganda Demographic and Health Survey
+Use of new syringe and needle during injection (UDHS),Uganda Demographic and Health Survey
+Any complications due to an injection (UDHS),Uganda Demographic and Health Survey
+Current smoking status (UDHS),Uganda Demographic and Health Survey
+Number of cigarettes smoked in the past 24 hours (UDHS),Uganda Demographic and Health Survey
+Smoking any form of tobacco (UDHS),Uganda Demographic and Health Survey
+Other forms of tobacco used (UDHS),Uganda Demographic and Health Survey
+Health insurance coverage (UDHS),Uganda Demographic and Health Survey
+Type of health insurance cover (UDHS),Uganda Demographic and Health Survey
+Name (UGBVS),Uganda Gender Based Violence Survey
+Age (UGBVS),Uganda Gender Based Violence Survey
+Religion (UGBVS),Uganda Gender Based Violence Survey
+Ethinicity (UGBVS),Uganda Gender Based Violence Survey
+Education level (UGBVS),Uganda Gender Based Violence Survey
+Ability to read and write (UGBVS),Uganda Gender Based Violence Survey
+Main econoic activity (UGBVS),Uganda Gender Based Violence Survey
+Leisure ways (UGBVS),Uganda Gender Based Violence Survey
+Access to information (UGBVS),Uganda Gender Based Violence Survey
+Forms of gender based violence (UGBVS),Uganda Gender Based Violence Survey
+Examples of gender based violence (UGBVS),Uganda Gender Based Violence Survey
+MANUFACTURER (NDA),National Drug Authority Drug Register
+DRUG NAME (NDA),National Drug Authority Drug Register
+REGISTRATION NUMBER(NDA),National Drug Authority Drug Register
+GENERIC NAME(NDA),National Drug Authority Drug Register
+DRUG STRENGTH (NDA),National Drug Authority Drug Register
+DOSAGE  FORM (NDA),National Drug Authority Drug Register
+Name of APPLICANT (NDA),National Drug Authority Drug Register
+Drug PACK SIZES (NDA),National Drug Authority Drug Register
+DRUG LICENCE HOLDER (NDA),National Drug Authority Drug Register
+COUNTRY OF MAKE (NDA),National Drug Authority Drug Register
+Commodity (IMIS), Infotrade Market Information Services
+Commodity Units (IMIS), Infotrade Market Information Services
+Commodity values (IMIS), Infotrade Market Information Services
+Unit price (IMIS), Infotrade Market Information Services
+Establishment name(UEES),Uganda Employment and Earnings Survey
+Address(UEES),Uganda Employment and Earnings Survey
+Economic activity(UEES),Uganda Employment and Earnings Survey
+Payment methods(UEES),Uganda Employment and Earnings Survey
+Employees - male(UEES),Uganda Employment and Earnings Survey
+Employees - female(UEES),Uganda Employment and Earnings Survey
+Employees - total(UEES),Uganda Employment and Earnings Survey
+Earnings(UEES),Uganda Employment and Earnings Survey
+Community services availability (CSD),Community Service Database
+Community services provider (CSD),Community Service Database
+Distance to a community service (CSD),Community Service Database
+Common transport means (CSD),Community Service Database
+Time to get to the community service (CSD),Community Service Database
+Quality of services (CSD),Community Service Database
+Commonly used type of health facility (CSD),Community Service Database
+Handling of patients by health facilities (CSD),Community Service Database
+Health facility ease of access - reception (CSD),Community Service Database
+Health facility ease of access - information and guidance (CSD),Community Service Database
+Health facility ease of access - flow of care (CSD),Community Service Database
+Health facility ease of access - sign posts (CSD),Community Service Database
+Treatment or handling of patients by healthworkers (CSD),Community Service Database
+Health facilities access issues (CSD),Community Service Database
+Minimising health facilities access issues (CSD),Community Service Database
+Improvement in access to safe water (CSD),Community Service Database
+Ever protected water catchment areas (CSD),Community Service Database
+Activities to protect water catchment areas (CSD),Community Service Database
+Payment for water (CSD),Community Service Database
+Amount paid for water (CSD),Community Service Database
+Quantity of water used (CSD),Community Service Database
+Purpose of the water payments (CSD),Community Service Database
+Usual monthly cost of water (CSD),Community Service Database
+Affordability of the water costs (CSD),Community Service Database
+Households using safe water facilities (CSD),Community Service Database
+reasons for incomplete latrine or toilet coverage (CSD),Community Service Database
+Availability of school faciities (CSD),Community Service Database
+Adquancy of eduction facilities at the school (CSD),Community Service Database
+Type of buidings at school (CSD),Community Service Database
+Condition of the facilities  at school (CSD),Community Service Database
+Number of facilities built in the last 3 years  at school (CSD),Community Service Database
+Number of stances for boys  at school (CSD),Community Service Database
+Number of stances for girls  at school (CSD),Community Service Database
+Handwashing facilities  at school (CSD),Community Service Database
+Separate toilet facilities for teachers  at school (CSD),Community Service Database
+Number of stances for male teachers  at school (CSD),Community Service Database
+Number of stances for female teachers  at school (CSD),Community Service Database
+Number of shared stances  at school (CSD),Community Service Database
+Toilet facility carters for physically impaired children  at school (CSD),Community Service Database
+First aid facilities  at school (CSD),Community Service Database
+Whoadministers First Aid at the school (CSD),Community Service Database
+Source of drinking water at the school (CSD),Community Service Database
+Source of drinking water at the school ranked (CSD),Community Service Database
+Distance to each important drinking water source (CSD),Community Service Database
+How reliable are these important water sources? (CSD),Community Service Database
+Items provided to students (CSD),Community Service Database
+Are items provided to students charged (CSD),Community Service Database
+Average amount charged per child per item (CSD),Community Service Database
+Frequency of payment per item (CSD),Community Service Database
+Total number of candidates examined - boys (CSD),Community Service Database
+Total number of candidates examined - girls (CSD),Community Service Database
+Number who passed with grade one (1) - boys (CSD),Community Service Database
+Number who passed with grade one (1) - girls (CSD),Community Service Database
+Number who passed with grade two (2) - boys (CSD),Community Service Database
+Number who passed with grade two (2) - girls (CSD),Community Service Database
+Number who passed with grade three (3) - boys (CSD),Community Service Database
+Number who passed with grade three (3) - girl (CSD),Community Service Database
+Are there any pupils who left school before completing P.7 (CSD),Community Service Database
+Number who left before completing P.7 per year - boys (CSD),Community Service Database
+Number who left before completing P.7 per year - girls (CSD),Community Service Database
+MOST common reason for leaving school - boys (CSD),Community Service Database
+MOST common reason for leaving school - girls (CSD),Community Service Database
+Does the school hold meetings (CSD),Community Service Database
+When was the last school meeting held - month (CSD),Community Service Database
+When was the last school meeting held - year (CSD),Community Service Database
+Minutes kept for the school meetings (CSD),Community Service Database
+School meetings frequency (CSD),Community Service Database
+Additional teachers required in school to meet the government ceilings - number of teachers (CSD),Community Service Database
+Additional teachers required in school to meet the government ceilings - additional number required (CSD),Community Service Database
+Does someone supervise or monitor the school (CSD),Community Service Database
+Last visit by a school supervisor- month (CSD),Community Service Database
+Last visit by a school supervisor- year (CSD),Community Service Database
+Frequency of school supervision/monitoring (CSD),Community Service Database
+Marital Status (WIS),Water Information System
+Relationship to head of household (WIS),Water Information System
+Household usual member (WIS),Water Information System
+Eligible female respondent (WIS),Water Information System
+Usual members who spent the night (WIS),Water Information System
+Place to wash  hands (WIS),Water Information System
+Place to wash hands - observed (WIS),Water Information System
+Water souces used on a regular basis (WIS),Water Information System
+Source of drinking water (WIS),Water Information System
+Water source for other purposes (WIS),Water Information System
+Uses of the water source (WIS),Water Information System
+Availability of the water source (WIS),Water Information System
+Availability of the water source at specific time (WIS),Water Information System
+Period to and from water source (WIS),Water Information System
+Ownership of a garden (WIS),Water Information System
+Toilet facility used  (WIS),Water Information System
+Main toilet facilty used (WIS),Water Information System
+Frequency of toilet facilty usage (WIS),Water Information System
+Toilet facilty sharing (WIS),Water Information System
+Number of households that share a toilet facility (WIS),Water Information System
+Number of people regularly using the bush / field at home or at work (WIS),Water Information System
+Disposal of under-5 children's fecal waste (WIS),Water Information System
+District (VR),Voters' register
+Constituency (VR),Voters' register
+Sub-County (VR),Voters' register
+Parish (VR),Voters' register
+Polling station (VR),Voters' register
+Voter names (VR),Voters' register
+Voter's Age (VR),Voters' register
+Voter's Sex (VR),Voters' register
+Voter's village (VR),Voters' register
+Water Source Location - rural(UWASA),Uganda Water Supply Atlas
+Water Source Location - urban(UWASA),Uganda Water Supply Atlas
+Period of water source construction(UWASA),Uganda Water Supply Atlas
+Source of funding for the water source(UWASA),Uganda Water Supply Atlas
+Ownership of watersource(UWASA),Uganda Water Supply Atlas
+Number of users of watersource(UWASA),Uganda Water Supply Atlas
+Type of watersource(UWASA),Uganda Water Supply Atlas
+Management of watersource(UWASA),Uganda Water Supply Atlas
+Water and Sanitation Committee (WSC) established(UWASA),Uganda Water Supply Atlas
+Water and Sanitation Committee (WSC) trained(UWASA),Uganda Water Supply Atlas
+Water and Sanitation Committee (WSC) functionality(UWASA),Uganda Water Supply Atlas
+Water and Sanitation Committee (WSC) reasons for not functioning(UWASA),Uganda Water Supply Atlas
+Water and Sanitation Committee (WSC) members(UWASA),Uganda Water Supply Atlas
+Water and Sanitation Committee (WSC) active members(UWASA),Uganda Water Supply Atlas
+Water and Sanitation Committee (WSC) women members(UWASA),Uganda Water Supply Atlas
+No. of women holding key positions in the Water and Sanitation Committee (WSC)(UWASA),Uganda Water Supply Atlas
+Water source functionality(UWASA),Uganda Water Supply Atlas
+Water source last functionality(UWASA),Uganda Water Supply Atlas
+Reasons for water source not functioning(UWASA),Uganda Water Supply Atlas
+Reasons (explained) for water source not functioning(UWASA),Uganda Water Supply Atlas
+Water source last repair(UWASA),Uganda Water Supply Atlas
+Water source last repair (details)(UWASA),Uganda Water Supply Atlas
+Information for District Water Officer (DWO)(UWASA),Uganda Water Supply Atlas
+Births registration (BDR),Births and Deaths register
